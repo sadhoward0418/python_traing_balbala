@@ -1,4 +1,9 @@
 # 請使用者輸入身高(cm)與體重(kg)，計算並印出 BMI 值與體位判斷
+
+#這是在github上編輯的內容
+
+#嘿這是本地庫咚咚
+
 height = int(input("请输入您的身高(cm)："))
 weight = int(input("请输入您的体重(kg)："))
 
