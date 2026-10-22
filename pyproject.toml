@@ -7,7 +7,9 @@ authors = [
     { name = "HAV", email = "hayman.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "mysql-connector-python>=26.7.0",
+]
 
 [project.scripts]
 dv109-python-assignment = "dv109_python_assignment:main"
